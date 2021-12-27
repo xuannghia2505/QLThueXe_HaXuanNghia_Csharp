@@ -1,0 +1,16 @@
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\DAL_QLChoThueXeDap\bin\Debug\DAL_QLChoThueXeDap.dll
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\DAL_QLChoThueXeDap\bin\Debug\DAL_QLChoThueXeDap.pdb
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\DAL_QLChoThueXeDap\obj\Debug\DAL_QLChoThueXe.csprojResolveAssemblyReference.cache
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\DAL_QLChoThueXeDap\obj\Debug\DAL_QLChoThueXeDap.dll
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\DAL_QLChoThueXeDap\obj\Debug\DAL_QLChoThueXeDap.pdb
+D:\Dev\C#\BaiTap\GUI_QLChoThueXe\DAL_QLChoThueXe\bin\Debug\DAL_QLChoThueXeDap.dll
+D:\Dev\C#\BaiTap\GUI_QLChoThueXe\DAL_QLChoThueXe\bin\Debug\DAL_QLChoThueXeDap.pdb
+D:\Dev\C#\BaiTap\GUI_QLChoThueXe\DAL_QLChoThueXe\obj\Debug\DAL_QLChoThueXe.csprojResolveAssemblyReference.cache
+D:\Dev\C#\BaiTap\GUI_QLChoThueXe\DAL_QLChoThueXe\obj\Debug\DAL_QLChoThueXeDap.dll
+D:\Dev\C#\BaiTap\GUI_QLChoThueXe\DAL_QLChoThueXe\obj\Debug\DAL_QLChoThueXeDap.pdb
+D:\ki1\C#\GUI_QLChoThueXe\DAL_QLChoThueXe\bin\Debug\DAL_QLChoThueXeDap.dll
+D:\ki1\C#\GUI_QLChoThueXe\DAL_QLChoThueXe\bin\Debug\DAL_QLChoThueXeDap.pdb
+D:\ki1\C#\GUI_QLChoThueXe\DAL_QLChoThueXe\obj\Debug\DAL_QLChoThueXe.csproj.AssemblyReference.cache
+D:\ki1\C#\GUI_QLChoThueXe\DAL_QLChoThueXe\obj\Debug\DAL_QLChoThueXe.csproj.CoreCompileInputs.cache
+D:\ki1\C#\GUI_QLChoThueXe\DAL_QLChoThueXe\obj\Debug\DAL_QLChoThueXeDap.dll
+D:\ki1\C#\GUI_QLChoThueXe\DAL_QLChoThueXe\obj\Debug\DAL_QLChoThueXeDap.pdb

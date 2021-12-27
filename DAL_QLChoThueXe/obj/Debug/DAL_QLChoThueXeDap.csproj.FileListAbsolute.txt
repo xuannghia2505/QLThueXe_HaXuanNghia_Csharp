@@ -1,0 +1,5 @@
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\DAL_QLChoThueXeDap\bin\Debug\DAL_QLChoThueXeDap.dll
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\DAL_QLChoThueXeDap\bin\Debug\DAL_QLChoThueXeDap.pdb
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\DAL_QLChoThueXeDap\obj\Debug\DAL_QLChoThueXeDap.csprojResolveAssemblyReference.cache
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\DAL_QLChoThueXeDap\obj\Debug\DAL_QLChoThueXeDap.dll
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\DAL_QLChoThueXeDap\obj\Debug\DAL_QLChoThueXeDap.pdb

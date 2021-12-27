@@ -1,0 +1,17 @@
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\bin\Debug\GUI_QLChoThueXeDap.exe.config
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\bin\Debug\GUI_QLChoThueXeDap.exe
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\bin\Debug\GUI_QLChoThueXeDap.pdb
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\bin\Debug\BUS_QLChoThueXeDap.dll
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\bin\Debug\BUS_QLChoThueXeDap.pdb
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\obj\Debug\GUI_QLChoThueXeDap.csprojResolveAssemblyReference.cache
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\obj\Debug\GUI_QLChoThueXeDap.frmCaiDatGia.resources
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\obj\Debug\GUI_QLChoThueXeDap.frmDSNguoiThue.resources
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\obj\Debug\GUI_QLChoThueXeDap.frmQLChoThueXe.resources
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\obj\Debug\GUI_QLChoThueXeDap.frmThanhToan.resources
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\obj\Debug\GUI_QLChoThueXeDap.frmThongTinXe.resources
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\obj\Debug\GUI_QLChoThueXeDap.frmThueXeDap.resources
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\obj\Debug\GUI_QLChoThueXeDap.frmThueXeMay.resources
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\obj\Debug\GUI_QLChoThueXeDap.Properties.Resources.resources
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\obj\Debug\GUI_QLChoThueXeDap.csproj.GenerateResource.Cache
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\obj\Debug\GUI_QLChoThueXeDap.exe
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\GUI_QLChoThueXeDap\obj\Debug\GUI_QLChoThueXeDap.pdb

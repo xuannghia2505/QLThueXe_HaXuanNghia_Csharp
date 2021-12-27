@@ -1,0 +1,7 @@
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\BUS_QLChoThueXeDap\bin\Debug\BUS_QLChoThueXeDap.dll
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\BUS_QLChoThueXeDap\bin\Debug\BUS_QLChoThueXeDap.pdb
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\BUS_QLChoThueXeDap\bin\Debug\DAL_QLChoThueXeDap.dll
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\BUS_QLChoThueXeDap\bin\Debug\DAL_QLChoThueXeDap.pdb
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\BUS_QLChoThueXeDap\obj\Debug\BUS_QLChoThueXeDap.csprojResolveAssemblyReference.cache
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\BUS_QLChoThueXeDap\obj\Debug\BUS_QLChoThueXeDap.dll
+D:\Dev\C#\BaiTap\GUI_QLChoThueXeDap\BUS_QLChoThueXeDap\obj\Debug\BUS_QLChoThueXeDap.pdb
